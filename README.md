@@ -1,3 +1,6 @@
+MODIFIED VERSION. ALLOW TO USE SECOND KEY TO OPEN/CLOSE CAR AND SHARE GARAGE (USE /givekey ID)
+
+
 # What is this?
 An ESX garage system with vehicle preview, easy to setup and configure.
 More info in the cfx.re topic: https://forum.cfx.re/t/esx-free-esx-beetlegarage-garages-with-vehicle-preview-marbella-vice-style/2993846
